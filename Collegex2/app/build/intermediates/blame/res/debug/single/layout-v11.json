@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\adame\\GIT\\collegex2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\adame\\.android\\build-cache\\78d876a2b5000d87f38596f052b414f453844d92\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\adame\\GIT\\collegex2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\adame\\.android\\build-cache\\78d876a2b5000d87f38596f052b414f453844d92\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\adame\\GIT\\collegex2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\adame\\.android\\build-cache\\78d876a2b5000d87f38596f052b414f453844d92\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\adame\\GIT\\collegex2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\adame\\.android\\build-cache\\78d876a2b5000d87f38596f052b414f453844d92\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\adame\\GIT\\collegex2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\adame\\.android\\build-cache\\78d876a2b5000d87f38596f052b414f453844d92\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\adame\\GIT\\collegex2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\adame\\.android\\build-cache\\78d876a2b5000d87f38596f052b414f453844d92\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    }
+]

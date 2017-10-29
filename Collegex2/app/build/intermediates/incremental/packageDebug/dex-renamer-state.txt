@@ -1,0 +1,7 @@
+#Sat Oct 28 18:11:51 EDT 2017
+base.0=C\:\\Users\\adame\\GIT\\collegex2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f5c2829cc29c6319c549a7a5bc318b3b59a5eba2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\adame\\GIT\\collegex2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3ebc1af9f57e3793cb816caa5b7f4f22116473d7\\classes.dex
+base.1=C\:\\Users\\adame\\GIT\\collegex2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3ebc1af9f57e3793cb816caa5b7f4f22116473d7
+file.0=C\:\\Users\\adame\\GIT\\collegex2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f5c2829cc29c6319c549a7a5bc318b3b59a5eba2\\classes.dex
