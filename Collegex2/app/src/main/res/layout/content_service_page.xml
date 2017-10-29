@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="tech.collegex2.Service_page"
+    tools:showIn="@layout/activity_service_page">
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="130dp"
+        android:layout_height="110dp"
+        app:srcCompat="@mipmap/ic_chat"
+        tools:layout_editor_absoluteX="44dp"
+        tools:layout_editor_absoluteY="157dp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="130dp"
+        android:layout_height="110dp"
+        app:srcCompat="@mipmap/ic_help"
+        tools:layout_editor_absoluteX="188dp"
+        tools:layout_editor_absoluteY="157dp" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="130dp"
+        android:layout_height="110dp"
+        app:srcCompat="@mipmap/ic_service"
+        tools:layout_editor_absoluteX="188dp"
+        tools:layout_editor_absoluteY="336dp" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="130dp"
+        android:layout_height="110dp"
+        app:srcCompat="@mipmap/ic_wallet"
+        tools:layout_editor_absoluteX="44dp"
+        tools:layout_editor_absoluteY="336dp" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:background="transparent"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="My Chat"
+        tools:layout_editor_absoluteX="75dp"
+        tools:layout_editor_absoluteY="279dp" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:background="transparent"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="My Services"
+        tools:layout_editor_absoluteX="205dp"
+        tools:layout_editor_absoluteY="279dp" />
+
+    <EditText
+        android:id="@+id/editText4"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:background="transparent"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Help"
+        tools:layout_editor_absoluteX="236dp"
+        tools:layout_editor_absoluteY="459dp" />
+
+    <EditText
+        android:id="@+id/editText5"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:background="transparent"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="My Wallet"
+        tools:layout_editor_absoluteX="68dp"
+        tools:layout_editor_absoluteY="459dp" />
+</android.support.constraint.ConstraintLayout>
